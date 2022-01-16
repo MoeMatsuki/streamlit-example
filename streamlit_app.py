@@ -19,5 +19,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-        .mark_circle(color='#0068c9', opacity=0.5)
-        .encode(x='x:Q', y='y:Q'))
